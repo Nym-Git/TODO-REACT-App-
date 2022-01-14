@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-CMD: 'npm install react-router-dom braintree-web-drop-in-react'
+CMD: 'npm install react-router-dom braintree-web-drop-in-react Query-string'
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
