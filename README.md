@@ -2,6 +2,8 @@
 
 CMD: 'npm install react-router-dom braintree-web-drop-in-react Query-string'
 
+SWITCH PROB: "https://stackoverflow.com/a/69849683"
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
